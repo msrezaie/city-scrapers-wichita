@@ -1,5 +1,6 @@
 import re
 from datetime import datetime
+from urllib.parse import urljoin, urlparse
 
 import scrapy
 from city_scrapers_core.constants import BOARD, CITY_COUNCIL, COMMITTEE, NOT_CLASSIFIED
@@ -42,7 +43,12 @@ class WichitaCityMixin(CityScrapersSpider, metaclass=WichitaCityMixinMeta):
     cid = None
     timezone = "America/Chicago"
     base_url = "https://www.wichita.gov"
-    links = [{"href": "https://www.wichita.gov/agendacenter", "title": "Agenda Center"}]
+    links = [
+        {
+            "href": "https://www.wichita.gov/agendacenter",
+            "title": "Wichita City, meeting materials page",
+        }
+    ]
 
     def start_requests(self):
         """Generate request using an URL derived from base url,
@@ -79,7 +85,7 @@ class WichitaCityMixin(CityScrapersSpider, metaclass=WichitaCityMixinMeta):
             all_day=False,
             time_notes="",
             location=self._parse_location(item),
-            links=self.links,
+            links=self._parse_links(item),
             source=item.url,
         )
 
@@ -219,3 +225,37 @@ class WichitaCityMixin(CityScrapersSpider, metaclass=WichitaCityMixinMeta):
             "name": name,
             "address": formatted_address,
         }
+
+    def ensure_absolute_url(self, url):
+        """Check if a given URL is absolute or relative. If it's relative,
+        return it as an absolute URL using the base_url."""
+        parsed_url = urlparse(url)
+        if not parsed_url.scheme:
+            absolute_url = urljoin(self.base_url, url)
+            return absolute_url
+        else:
+            return url
+
+    def _parse_links(self, response):
+        """Checks whether a "download agenda" link is present and
+        any links are present in the "links" section. In most cases
+        the "download agenda" button is not present."""
+
+        new_links = self.links.copy()  # Copy the default links
+
+        # Check "download agenda" button
+        agenda_button = response.css("a.agendaDownload::attr(href)").get()
+        if agenda_button:
+            href = self.ensure_absolute_url(agenda_button)
+            new_links.append({"href": href, "title": "Download agenda"})
+
+        # Check for other links
+        other_links = response.css(
+            "#ctl00_ctl00_MainContent_ModuleContent_ctl00_ctl04_links a[itemprop='url']"
+        )
+        for link in other_links:
+            href = self.ensure_absolute_url(link.css("::attr(href)").get())
+            title = link.css("::text").get()
+            new_links.append({"href": href, "title": title})
+
+        return new_links

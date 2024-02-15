@@ -79,11 +79,18 @@ def test_source():
     assert (
         parsed_item["source"]
         == "https://www.wichita.gov/Calendar.aspx?EID=1592&month=2&year=2024&day=13&calType=0"  # noqa: E501
-    )  # noqa: E501
+    )
 
 
 def test_links():
-    assert parsed_item["links"] == WicksCityAPCSpider.links
+    expected_links = WicksCityAPCSpider.links.copy()
+    expected_links.append(
+        {
+            "href": "https://www.youtube.com/@Wichita-SedgwickCountyPlanning",
+            "title": "Wichita-Sedgwick County Planning Youtube channel",
+        }
+    )
+    assert parsed_item["links"] == expected_links
 
 
 def test_all_day():
