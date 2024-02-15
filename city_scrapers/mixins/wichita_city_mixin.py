@@ -9,17 +9,37 @@ from dateutil.parser import parse
 from dateutil.relativedelta import relativedelta
 
 
-class WichitaCityMixin(CityScrapersSpider):
+class WichitaCityMixinMeta(type):
+    """
+    Metaclass that enforces the implementation of required static
+    variables in child classes that inherit from WichitaCityMixin.
+    """
+
+    def __init__(cls, name, bases, dct):
+        required_static_vars = ["agency", "name", "cid"]
+        missing_vars = [var for var in required_static_vars if var not in dct]
+
+        if missing_vars:
+            missing_vars_str = ", ".join(missing_vars)
+            raise NotImplementedError(
+                f"{name} must define the following static variable(s): {missing_vars_str}."  # noqa
+            )
+
+        super().__init__(name, bases, dct)
+
+
+class WichitaCityMixin(CityScrapersSpider, metaclass=WichitaCityMixinMeta):
     """
     This class is designed to scrape data from the City of Wichita government website.
     Boards and committees are identified by a unique 'cid' value in the URL.
 
     To use this mixin, create a new spider class that inherits from both this mixin.
-    The new spider should have a 'cid' attribute defined.
+    'agency', 'name', and 'cid' must be defined as static vars in the spider class.
     """
 
-    name = "wic_apc"
-    agency = "Wichita Advance Plans Committee"
+    name = None
+    agency = None
+    cid = None
     timezone = "America/Chicago"
     base_url = "https://www.wichita.gov"
     links = [{"href": "https://www.wichita.gov/agendacenter", "title": "Agenda Center"}]
