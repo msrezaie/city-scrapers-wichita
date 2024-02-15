@@ -1,4 +1,4 @@
-from city_scrapers.mixins.wichita_city_mixin import WichitaCityMixin
+from city_scrapers.mixins.wichita_city import WichitaCityMixin
 
 
 class WicksCityHPBSpider(WichitaCityMixin):
