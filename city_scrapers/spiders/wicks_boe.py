@@ -13,11 +13,16 @@ class WicksBoeSpider(CityScrapersSpider):
     name = "wicks_boe"
     agency = "Wichita Board of Education"
     timezone = "America/Chicago"
-    meeting_materials_link = {
-        "title": "Agenda Page",
-        "href": "https://www.usd259.org/Page/7121",
+    meeting_materials_link = [
+        {
+            "title": "Agenda Page",
+            "href": "https://www.usd259.org/Page/7121",
+        }
+    ]
+    location = {
+        "name": "Wichita North High School - Lecture Hall",
+        "address": "1437 N Rochester St, Wichita, KS 67203",
     }
-    location = "North High Lecture Hall, 1437 N Rochester St, Wichita, KS 67203"
 
     def start_requests(self):
 
@@ -58,7 +63,7 @@ class WicksBoeSpider(CityScrapersSpider):
                     classification=BOARD,
                     start=parser().parse(item["Start"]),
                     end=parser().parse(item["End"]),
-                    all_day=False,
+                    all_day=item["AllDay"],
                     time_notes=None,
                     location=self.location,
                     links=self.meeting_materials_link,
