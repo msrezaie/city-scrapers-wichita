@@ -1,11 +1,12 @@
+import json
+from datetime import datetime, timedelta
+
+import requests
 from city_scrapers_core.constants import BOARD
 from city_scrapers_core.items import Meeting
 from city_scrapers_core.spiders import CityScrapersSpider
-from scrapy import Request
-import requests
-import json
-from datetime import datetime, timedelta
 from dateutil.parser import parser
+from scrapy import Request
 
 
 class WicksBoeSpider(CityScrapersSpider):
@@ -21,7 +22,9 @@ class WicksBoeSpider(CityScrapersSpider):
     def start_requests(self):
 
         # Make a GET request to retrieve the bearer token
-        r = requests.get(url = 'https://www.usd259.org/Generator/TokenGenerator.ashx/ProcessRequest')
+        r = requests.get(
+            url="https://www.usd259.org/Generator/TokenGenerator.ashx/ProcessRequest"
+        )
         token = r.json()["Token"]
 
         # Calculate the date one month prior and format the date
@@ -33,12 +36,12 @@ class WicksBoeSpider(CityScrapersSpider):
         six_months_prior_formated = six_months_ahead.strftime("%Y-%m-%d")
 
         # Construct the URL with query parameters
-        # Note, the url returns xml by default, therefore request the response to be in json format 
+        # The url returns xml by default, therefore request the response to be in json format  # noqa
         url = f"https://awsapieast1-prod21.schoolwires.com/REST/api/v4/CalendarEvents/GetEvents/13328?StartDate={one_month_prior_formated}&EndDate={six_months_prior_formated}&ModuleInstanceFilter=&CategoryFilter=&IsDBStreamAndShowAll=true"  # noqa
 
         headers = {
-            'Authorization': f'Bearer {token}',
-            'Accept':'application/json',
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/json",
         }
 
         # Make the request to the url, and after the request is complete execute parse()
