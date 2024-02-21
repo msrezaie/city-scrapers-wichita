@@ -9,8 +9,8 @@ from freezegun import freeze_time
 from city_scrapers.spiders.wicks_boe import WicksBoeSpider
 
 test_response = file_response(
-    join(dirname(__file__), "files", "wicks_boe.html"),
-    url="https://www.usd259.org/Page/2471#calendar13328/",
+    join(dirname(__file__), "files", "wicks_boe.json"),
+    url="https://awsapieast1-prod21.schoolwires.com/REST/api/v4/CalendarEvents/GetEvents/13328?StartDate=2024-01-22&EndDate=2024-08-19&ModuleInstanceFilter=&CategoryFilter=&IsDBStreamAndShowAll=true",
 )
 spider = WicksBoeSpider()
 
@@ -22,17 +22,12 @@ parsed_items = [item for item in spider.parse(test_response)]
 freezer.stop()
 
 
-def test_tests():
-    print("Please write some tests for this spider or at least disable this one.")
-    assert False
-
-
 """
 Uncomment below
 """
 
-# def test_title():
-#     assert parsed_items[0]["title"] == "EXPECTED TITLE"
+def test_title():
+    assert parsed_items[0]["title"] == "BOE Meeting"
 
 
 # def test_description():
