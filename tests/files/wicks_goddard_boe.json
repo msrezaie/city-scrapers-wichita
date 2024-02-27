@@ -1,0 +1,2067 @@
+[
+  {
+    "unique": "CT23380490B4",
+    "name": "Regular Meeting",
+    "current": "1",
+    "preliveoak": "",
+    "numberdate": "20240219",
+    "unid": "50D6BAB6CE671407852589D6000490B4"
+  },
+  {
+    "unique": "D2ELU4580B50",
+    "name": "BOE Special Meeting",
+    "current": "1",
+    "preliveoak": "",
+    "numberdate": "20240219",
+    "unid": "E7F859EDB51CEF6485258AC200580B50"
+  },
+  {
+    "unique": "CT22ZP04771E",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20240122",
+    "unid": "75EB8669E46CB641852589D60004771E"
+  },
+  {
+    "unique": "CTMM4K589DEB",
+    "name": "BOE Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20240108",
+    "unid": "D09395FA4FF2A7A5852589E900589DEB"
+  },
+  {
+    "unique": "CT22Y8045813",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20231211",
+    "unid": "40D8DE1FAAF25ED6852589D600045813"
+  },
+  {
+    "unique": "CT22WW043B58",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20231113",
+    "unid": "5DD85BD416B2499D852589D600043B58"
+  },
+  {
+    "unique": "CXBQZ76B8F46",
+    "name": "BOE Special Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20231113",
+    "unid": "CE97D0CC2361E0B385258A5F006B8F46"
+  },
+  {
+    "unique": "CXBR4C6C2731",
+    "name": "Nonresident Student Policy Hearing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20231113",
+    "unid": "E8A23ED781916AE285258A5F006C2731"
+  },
+  {
+    "unique": "CT22W904224A",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20231009",
+    "unid": "474E18E2CC8F8764852589D60004224A"
+  },
+  {
+    "unique": "CT22N802F365",
+    "name": "Regular Meeting/RNR and Budget Hearing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20230911",
+    "unid": "E8D0EF102EAE9CE5852589D60002F365"
+  },
+  {
+    "unique": "CTMLP957712B",
+    "name": "BOE Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20230911",
+    "unid": "6B935C017CCD0D2E852589E90057712B"
+  },
+  {
+    "unique": "CT22LR02AD22",
+    "name": "BOE Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20230814",
+    "unid": "8DC5EC787B151BA9852589D60002AD22"
+  },
+  {
+    "unique": "CT22LY02C733",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20230814",
+    "unid": "8DC060161B62CA9F852589D60002C733"
+  },
+  {
+    "unique": "CT22KJ0276D9",
+    "name": "Regular Meeting/Budget Publishing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20230724",
+    "unid": "0CB3CB171A9C3221852589D6000276D9"
+  },
+  {
+    "unique": "CG54PD0C8101",
+    "name": "Organizational Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20230705",
+    "unid": "306136BD0BF0773985258879000C8101"
+  },
+  {
+    "unique": "CG54NT0C589E",
+    "name": "Budget Closeout Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20230627",
+    "unid": "F30CB0BD3196CDFF85258879000C589E"
+  },
+  {
+    "unique": "CG54M40C2BF4",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20230612",
+    "unid": "1FEABACD40B4AE0285258879000C2BF4"
+  },
+  {
+    "unique": "CRVKCQ513FF2",
+    "name": "BOE Special Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20230517",
+    "unid": "A32C515C15390772852589B100513FF2"
+  },
+  {
+    "unique": "CG53P406F5E5",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20230508",
+    "unid": "D7A9E1EAE681E0C5852588790006F5E5"
+  },
+  {
+    "unique": "CG53MK06E148",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20230410",
+    "unid": "8FE957FA2D49D5C7852588790006E148"
+  },
+  {
+    "unique": "CQ6HXX4AAA09",
+    "name": "BOE Special Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20230327",
+    "unid": "872CD950E8D7BA7D8525897A004AAA09"
+  },
+  {
+    "unique": "CG53L306C4C1",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20230306",
+    "unid": "F39DE12CD3E92D00852588790006C4C1"
+  },
+  {
+    "unique": "CPHJKJ4D914B",
+    "name": "BOE Special Meeting",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20230306",
+    "unid": "1F3990AEDF5C63EC85258965004D914B"
+  },
+  {
+    "unique": "CG53JB067753",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20230206",
+    "unid": "E9F54DF1BD4C60EB8525887900067753"
+  },
+  {
+    "unique": "CMXKCV514767",
+    "name": "BOE Special Meeting",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20230113",
+    "unid": "BB5B22C3C83843F08525893300514767"
+  },
+  {
+    "unique": "CG53GR065CDE",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20230109",
+    "unid": "A412B3434BABA0528525887900065CDE"
+  },
+  {
+    "unique": "CMQUJE7C459F",
+    "name": "BOE Special Meeting",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20230109",
+    "unid": "46F53833FE4239518525892C007C459F"
+  },
+  {
+    "unique": "CG53F3064ADE",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20221212",
+    "unid": "1DECBBC6B182DE168525887900064ADE"
+  },
+  {
+    "unique": "CG53DK0635F3",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20221114",
+    "unid": "ACB297BDEDC55C6185258879000635F3"
+  },
+  {
+    "unique": "CK7R7P6C6A5B",
+    "name": "BOE Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20221017",
+    "unid": "448D05324E72D894852588DB006C6A5B"
+  },
+  {
+    "unique": "CG53BU0620C7",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20221010",
+    "unid": "0C86786F66B6CF5785258879000620C7"
+  },
+  {
+    "unique": "CG537V056B4E",
+    "name": "Regular Meeting/RNR and Budget Hearing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220912",
+    "unid": "E53F8C312E9A61A58525887900056B4E"
+  },
+  {
+    "unique": "CHZNLY5C1E79",
+    "name": "BOE Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220912",
+    "unid": "A69608C6F3EB5428852588B5005C1E79"
+  },
+  {
+    "unique": "CFCKF650E85D",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220822",
+    "unid": "937CEDD3514AB589852588600050E85D"
+  },
+  {
+    "unique": "CG53AN05F3EA",
+    "name": "BOE Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220822",
+    "unid": "7E65C1617C4130E5852588790005F3EA"
+  },
+  {
+    "unique": "CG539L05B6BE",
+    "name": "BOE Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220808",
+    "unid": "593AC268D5FD6EC5852588790005B6BE"
+  },
+  {
+    "unique": "CFCKCX50B947",
+    "name": "Regular Meeting/Budget Publishing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220728",
+    "unid": "7D4F92D2EE93E176852588600050B947"
+  },
+  {
+    "unique": "C4ERE3687D8A",
+    "name": "Organizational Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220705",
+    "unid": "EC58FA6FA79B607C8525870200687D8A"
+  },
+  {
+    "unique": "C4ERCX686D16",
+    "name": "Budget Closeout Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220628",
+    "unid": "9D4A0EA9CBF77B638525870200686D16"
+  },
+  {
+    "unique": "C4ERA3685F22",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220613",
+    "unid": "285464EF0809D1A08525870200685F22"
+  },
+  {
+    "unique": "CF5MXB5CEB89",
+    "name": "BOE Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220613",
+    "unid": "56B810E0188D6E2F85258859005CEB89"
+  },
+  {
+    "unique": "C4ER7L685359",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220509",
+    "unid": "319870552E93DCA68525870200685359"
+  },
+  {
+    "unique": "C4ER4J68466D",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220411",
+    "unid": "7F65E93E82AFAB98852587020068466D"
+  },
+  {
+    "unique": "CD6MMH5B6365",
+    "name": "BOE Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220411",
+    "unid": "F46B2C8199B8A0B88525881A005B6365"
+  },
+  {
+    "unique": "C4ER2D683708",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220307",
+    "unid": "20450649CF6090C08525870200683708"
+  },
+  {
+    "unique": "CC6N945E86C9",
+    "name": "BOE Special Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220307",
+    "unid": "C524D4D737D6C4A7852587FA005E86C9"
+  },
+  {
+    "unique": "C4EQVW67A8EA",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220214",
+    "unid": "34229CEA4E5C187D852587020067A8EA"
+  },
+  {
+    "unique": "C4EQT6679614",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20220110",
+    "unid": "EA5A6EC7A8674DEB8525870200679614"
+  },
+  {
+    "unique": "C4EQR66787C3",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20211213",
+    "unid": "27FB8EA1D8CF4CCB85258702006787C3"
+  },
+  {
+    "unique": "C9HNJ75D86A5",
+    "name": "BOE Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20211213",
+    "unid": "E0187AF6CCD57414852587A5005D86A5"
+  },
+  {
+    "unique": "C7XNB65EBE9C",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20211206",
+    "unid": "9B6CE8A765FC610C85258773005EBE9C"
+  },
+  {
+    "unique": "C4EQKQ6759C5",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20211108",
+    "unid": "7EBE2E7EAE7BE44585258702006759C5"
+  },
+  {
+    "unique": "C8DJZT4F9D65",
+    "name": "BOE Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20211108",
+    "unid": "F88C9418768BC1F585258781004F9D65"
+  },
+  {
+    "unique": "C8DMZB5DA602",
+    "name": "BOE Special Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20211108",
+    "unid": "1808503FC3386DF485258781005DA602"
+  },
+  {
+    "unique": "C88RJA6DFCE2",
+    "name": "BOE Special Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20211102",
+    "unid": "380324057420D0CC8525877C006DFCE2"
+  },
+  {
+    "unique": "C7RSJK724FB4",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20211018",
+    "unid": "5DC2A2DB80F027478525876D00724FB4"
+  },
+  {
+    "unique": "C4EQHB6744DC",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20211011",
+    "unid": "15EEBC662014035985258702006744DC"
+  },
+  {
+    "unique": "C7JJJU4C3C2F",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20211011",
+    "unid": "9E228F5A140FBE7F85258766004C3C2F"
+  },
+  {
+    "unique": "C4EQDU6725F9",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20210913",
+    "unid": "8D0CC2209D69B8AA85258702006725F9"
+  },
+  {
+    "unique": "C6NPQE64A44C",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20210913",
+    "unid": "F4B5A12FC045C7438525874A0064A44C"
+  },
+  {
+    "unique": "C6EUHG7C2324",
+    "name": "BOE Special Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20210902",
+    "unid": "6735F5FF2118F2CD85258742007C2324"
+  },
+  {
+    "unique": "C4EQBX670F40",
+    "name": "Regular Meeting/Budget Hearing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20210823",
+    "unid": "43CC984A290F2CCA8525870200670F40"
+  },
+  {
+    "unique": "C4EQ9T66E9B8",
+    "name": "Regular Meeting/Budget Publishing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20210726",
+    "unid": "8914F182325EBD15852587020066E9B8"
+  },
+  {
+    "unique": "C4ERJH68A1CC",
+    "name": "BOE Work Session",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20210726",
+    "unid": "6EDEEB09D68F8CF9852587020068A1CC"
+  },
+  {
+    "unique": "BQTQFB5F8818",
+    "name": "Organizational Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20210701",
+    "unid": "289E957D44D792F68525858F005F8818"
+  },
+  {
+    "unique": "BQTQEA5F6AB3",
+    "name": "Budget Closeout Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20210628",
+    "unid": "9C1E8925E9B236B78525858F005F6AB3"
+  },
+  {
+    "unique": "BQTQCC5F5677",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20210614",
+    "unid": "36A717AB306DC6C98525858F005F5677"
+  },
+  {
+    "unique": "C34N3F5DB4A9",
+    "name": "Board of Education Work Session",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20210614",
+    "unid": "33200968056EBB5C852586D8005DB4A9"
+  },
+  {
+    "unique": "BQTQA85F426D",
+    "name": "Regular Meeting",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20210510",
+    "unid": "5F734ABB731922088525858F005F426D"
+  },
+  {
+    "unique": "BQTQ7H5F15A5",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20210412",
+    "unid": "28119CD0CB0A0E548525858F005F15A5"
+  },
+  {
+    "unique": "BQTQ4J5ED5B0",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20210308",
+    "unid": "93519EBEC9FE12488525858F005ED5B0"
+  },
+  {
+    "unique": "BYCLP4571CD9",
+    "name": "BOE Special Board Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20210219",
+    "unid": "AF7075096C1FE68E8525868000571CD9"
+  },
+  {
+    "unique": "BQTPMF5E232C",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20210208",
+    "unid": "D34537D6922CFF038525858F005E232C"
+  },
+  {
+    "unique": "BQTPQ35E560E",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20210208",
+    "unid": "579A1190E4DD96978525858F005E560E"
+  },
+  {
+    "unique": "BQTPHL5D7F08",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20210111",
+    "unid": "0D33FC6B68A19E288525858F005D7F08"
+  },
+  {
+    "unique": "BQTN935C3061",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20201214",
+    "unid": "D7C1CAB25D512E978525858F005C3061"
+  },
+  {
+    "unique": "BW7LVG570EB6",
+    "name": "Board of Education Special Meeting",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20201214",
+    "unid": "AD2436098C4CB7C78525863B00570EB6"
+  },
+  {
+    "unique": "BQTNB55C4197",
+    "name": "Board of Education Work Session",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20201207",
+    "unid": "A3DFFAD08E50C9338525858F005C4197"
+  },
+  {
+    "unique": "BQTN695C0562",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20201109",
+    "unid": "18CA2C6F8EE433998525858F005C0562"
+  },
+  {
+    "unique": "BQTN8L5C1C1C",
+    "name": "Board of Education Special Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20201109",
+    "unid": "9AD2CA6C9E534F178525858F005C1C1C"
+  },
+  {
+    "unique": "BUCLVG57F432",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20201021",
+    "unid": "30F1AACD4B168B9D852586000057F432"
+  },
+  {
+    "unique": "BQTN3Y5BEA06",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20201012",
+    "unid": "B98D4907C1CD561C8525858F005BEA06"
+  },
+  {
+    "unique": "BQTMZU5BD592",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200914",
+    "unid": "39D52B2340E8386E8525858F005BD592"
+  },
+  {
+    "unique": "BT9MBH5953D0",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200914",
+    "unid": "253D3C9E65F264D1852585DD005953D0"
+  },
+  {
+    "unique": "BSULL6569E8D",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200831",
+    "unid": "6B56CD745E54F647852585D00056B12A"
+  },
+  {
+    "unique": "BQTHQU493A85",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200817",
+    "unid": "6E4BD2CBB18917598525858F00493A85"
+  },
+  {
+    "unique": "BQTHR5494914",
+    "name": "Regular Meeting/Budget Hearing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200817",
+    "unid": "DAA273268C59794F8525858F00494914"
+  },
+  {
+    "unique": "BQTHNZ4926CA",
+    "name": "Regular Meeting/Budget Publishing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200727",
+    "unid": "3710C8B9FF69B7748525858F004926CA"
+  },
+  {
+    "unique": "BRGQ9A677B96",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200720",
+    "unid": "C9540183C2535839852585A400677B96"
+  },
+  {
+    "unique": "BDQNGM5C359D",
+    "name": "Organizational Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200701",
+    "unid": "616B75BE1D5C65588525842C005C359D"
+  },
+  {
+    "unique": "BDQNFT5C098D",
+    "name": "Budget Closeout Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200625",
+    "unid": "84F53C6243A72AFE8525842C005C098D"
+  },
+  {
+    "unique": "BDQNDB5BE45A",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200608",
+    "unid": "1359CDDE41356B1B8525842C005BE45A"
+  },
+  {
+    "unique": "BDQNAX5BD0C7",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200511",
+    "unid": "795E33AC190B51EF8525842C005BD0C7"
+  },
+  {
+    "unique": "BDQN8N5BB7A6",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200413",
+    "unid": "D10D0EF41C9A94E08525842C005BB7A6"
+  },
+  {
+    "unique": "BNFMG55B1FA5",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200413",
+    "unid": "5703FE2A886088E485258543005B1FA5"
+  },
+  {
+    "unique": "BN2T3C75026C",
+    "name": "BOE Special Board Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200402",
+    "unid": "428B18782959B568852585360075026C"
+  },
+  {
+    "unique": "BDQN6G5B9938",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200309",
+    "unid": "47E26C173A220F368525842C005B9938"
+  },
+  {
+    "unique": "BDQN5V5B76AA",
+    "name": "State of the District Report",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20200226",
+    "unid": "7DC1DF819BED49ED8525842C005B76AA"
+  },
+  {
+    "unique": "BDQN2V5B4A3D",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200210",
+    "unid": "446E3F5274C876E18525842C005B4A3D"
+  },
+  {
+    "unique": "BLCJW24F193A",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200210",
+    "unid": "9B2672782AEA3D0D85258500004F193A"
+  },
+  {
+    "unique": "BDQMYM5B32C8",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20200113",
+    "unid": "BDEB6EFF7F847FBA8525842C005B32C8"
+  },
+  {
+    "unique": "BDQMW95B1053",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20191209",
+    "unid": "9129FEE52BC1A5A18525842C005B1053"
+  },
+  {
+    "unique": "BJGNHK5EB557",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20191209",
+    "unid": "242F92DCCA72B6D2852584C4005EB557"
+  },
+  {
+    "unique": "BDQMTU5AEE62",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20191118",
+    "unid": "A3656CD2EE2CD6958525842C005AEE62"
+  },
+  {
+    "unique": "BHULC655B490",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20191118",
+    "unid": "F7B3E2199FBE6AEE852584B00055B490"
+  },
+  {
+    "unique": "BFHTZ975C431",
+    "name": "BOE Special Board Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20191016",
+    "unid": "EB3AFB6D6CEE81D8852584650075C431"
+  },
+  {
+    "unique": "BDQMRG5ACE00",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20191014",
+    "unid": "EFF3B3AC37B4C4C58525842C005ACE00"
+  },
+  {
+    "unique": "BDQMMX5A859A",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20190909",
+    "unid": "01A53F8574C885458525842C005A859A"
+  },
+  {
+    "unique": "BDQMKU5A5B40",
+    "name": "Regular Meeting/Budget Hearing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20190819",
+    "unid": "A6477D0D717B19768525842C005A5B40"
+  },
+  {
+    "unique": "BEYHT349FBB7",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20190819",
+    "unid": "23A4C34130402D0B852584540049FBB7"
+  },
+  {
+    "unique": "BDQMK55A26B0",
+    "name": "2019 Board of Education Retreat",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20190816",
+    "unid": "3F2CDCA1449D17018525842C005A26B0"
+  },
+  {
+    "unique": "BDQMEY59E300",
+    "name": "Regular Meeting/Budget Publishing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20190722",
+    "unid": "9D99141F2750FFA68525842C0059E300"
+  },
+  {
+    "unique": "B2K3UP779529",
+    "name": "Organizational Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20190701",
+    "unid": "7F98BBACFFED4445872582C600779529"
+  },
+  {
+    "unique": "B2K3SZ77687F",
+    "name": "Budget Closeout Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20190626",
+    "unid": "ED2400DFA852B8BB872582C60077687F"
+  },
+  {
+    "unique": "B2K3PW774CAC",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20190610",
+    "unid": "44CCC218A6058542872582C600774CAC"
+  },
+  {
+    "unique": "B2K3MG773C3F",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20190513",
+    "unid": "5C1E52FBBF812AB9872582C600773C3F"
+  },
+  {
+    "unique": "BBWL9652F007",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20190513",
+    "unid": "DEF0A926BCEB8CE7872583F20052F007"
+  },
+  {
+    "unique": "B2K3JX772BF0",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20190408",
+    "unid": "0E7B63019902BE80872582C600772BF0"
+  },
+  {
+    "unique": "B9SL944EB785",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20190304",
+    "unid": "818675F2D17448AA872583AE004EB785"
+  },
+  {
+    "unique": "B2K3G8771683",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20190304",
+    "unid": "F15E64237A916D0F872582C600771683"
+  },
+  {
+    "unique": "B2K3FV76FDFC",
+    "name": "State of the District Report",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20190225",
+    "unid": "218CECF82308A653872582C60076FDFC"
+  },
+  {
+    "unique": "B2K3D576EC8E",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20190211",
+    "unid": "870D455CAF9CC9F6872582C60076EC8E"
+  },
+  {
+    "unique": "B2K3AP76D83E",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20190114",
+    "unid": "B3CBF84CA7862AF2872582C60076D83E"
+  },
+  {
+    "unique": "B6BKUF51FAB1",
+    "name": "Board of Education Special Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20181219",
+    "unid": "A29BC7B19FD6C71C8725833F0051FAB1"
+  },
+  {
+    "unique": "B2K38J76C5C7",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20181210",
+    "unid": "2FBB936DC8A49121872582C60076C5C7"
+  },
+  {
+    "unique": "B74NFF5D3BE9",
+    "name": "BOE Special Board Meeting/Legislative Meet-and-Greet",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20181210",
+    "unid": "E0EE9CEAA476CEB687258358005D3BE9"
+  },
+  {
+    "unique": "B2K36B76B46C",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20181112",
+    "unid": "00175E7B5A55833A872582C60076B46C"
+  },
+  {
+    "unique": "B2K34576A3F6",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20181008",
+    "unid": "1042F1CAA054B5E7872582C60076A3F6"
+  },
+  {
+    "unique": "B2K2ZW768DA5",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180910",
+    "unid": "2FDDC0E8396E548E872582C600768DA5"
+  },
+  {
+    "unique": "B3PGJ543F7C9",
+    "name": "BOE Special Board Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180828",
+    "unid": "23C06F1C404CA4B0872582EB0043F7C9"
+  },
+  {
+    "unique": "B2K2WQ764815",
+    "name": "Regular Meeting/Budget Hearing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180820",
+    "unid": "B8C4ACC8AF4E2870872582C600764815"
+  },
+  {
+    "unique": "B3EJZ44F8C05",
+    "name": "2018 Board of Education Retreat",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180810",
+    "unid": "7133D8D960A5E207872582E2004F8C05"
+  },
+  {
+    "unique": "B2HPCT6127E8",
+    "name": "Regular Meeting/Budget Publishing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180731",
+    "unid": "2EA1B01C36752DF7872582C5006127E8"
+  },
+  {
+    "unique": "AQAT3D735871",
+    "name": "Organizational Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180702",
+    "unid": "AC523542BE36ED228725817E00735871"
+  },
+  {
+    "unique": "AQAT2N7344D6",
+    "name": "Budget Closeout Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180627",
+    "unid": "15C7C4A8E386CD5C8725817E007344D6"
+  },
+  {
+    "unique": "AQASYA730A21",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180611",
+    "unid": "931473691BC51EC08725817E00730A21"
+  },
+  {
+    "unique": "AQASVY72DFD6",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180514",
+    "unid": "112B671B8E67EECB8725817E0072DFD6"
+  },
+  {
+    "unique": "AWNUBU783C74",
+    "name": "Board of Education Special Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180509",
+    "unid": "C32D1E3F5217A2CD8725824A00783C74"
+  },
+  {
+    "unique": "AWNUC7784274",
+    "name": "Board of Education Special Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180423",
+    "unid": "892559CF9ED9B6ED8725824A00784274"
+  },
+  {
+    "unique": "AQASTS72AE38",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180409",
+    "unid": "B3EEFE5E80CE1D578725817E0072AE38"
+  },
+  {
+    "unique": "AXBMYW5D962F",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180409",
+    "unid": "EDEA2B2B8FC1E0978725825F005D962F"
+  },
+  {
+    "unique": "ASFRPZ6F07F3",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180312",
+    "unid": "8D247987A930BA3D872581C3006F07F3"
+  },
+  {
+    "unique": "ASFR9L6CEC98",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180312",
+    "unid": "974F41E16C6E1843872581C3006CEC98"
+  },
+  {
+    "unique": "AWLKC8512E1E",
+    "name": "BOE Special Board Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180312",
+    "unid": "A297CBCB75F185078725824800512E1E"
+  },
+  {
+    "unique": "AQASQJ724672",
+    "name": "State of the District Report",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180227",
+    "unid": "32BCE84ACD71DC9A8725817E00724672"
+  },
+  {
+    "unique": "AVPSFP6E6331",
+    "name": "BOE Special Board Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180212",
+    "unid": "133CE682444B98F78725822B006E6331"
+  },
+  {
+    "unique": "AQASNF7234F2",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180212",
+    "unid": "8E1B9E103091BEB88725817E007234F2"
+  },
+  {
+    "unique": "AV62QG72965F",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180129",
+    "unid": "001B3740711BA2E3872582190072965F"
+  },
+  {
+    "unique": "AQASKL7201B8",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20180108",
+    "unid": "FC74F023A94D448E8725817E007201B8"
+  },
+  {
+    "unique": "ATSMVB5B8E23",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20171211",
+    "unid": "0B6051CC17D3092E872581EE005B8E23"
+  },
+  {
+    "unique": "ATSMSF5AF257",
+    "name": "Legislative Tour",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20171211",
+    "unid": "73702FC33E59E3BC872581EE005AF257"
+  },
+  {
+    "unique": "AQASGN71DB6E",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20171211",
+    "unid": "A158BE521768D2A38725817E0071DB6E"
+  },
+  {
+    "unique": "ASUSBF70C8DF",
+    "name": "Board of Education School Tours",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20171128",
+    "unid": "78BEAA7ED8884790872581D00070C8DF"
+  },
+  {
+    "unique": "ASFRNF6ECD7C",
+    "name": "Board of Education Work Session",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20171113",
+    "unid": "188A20B7373A230F872581C3006ECD7C"
+  },
+  {
+    "unique": "AQASD370C8FC",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20171113",
+    "unid": "7D1E510E35C19A618725817E0070C8FC"
+  },
+  {
+    "unique": "AS2KXH521D2C",
+    "name": "Special Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20171024",
+    "unid": "35E2961F5A29BCA5872581B600521D2C"
+  },
+  {
+    "unique": "AQASBG70A4B3",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20171009",
+    "unid": "225B5EC70A8651478725817E0070A4B3"
+  },
+  {
+    "unique": "AQ9KV753AA93",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20170911",
+    "unid": "DA18DA3C5DC359D88725817D0053AA93"
+  },
+  {
+    "unique": "AMVMDG5A8E7E",
+    "name": "Regular Meeting/Budget Hearing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20170821",
+    "unid": "85D5B8B4AD4B282087258131005A8E7E"
+  },
+  {
+    "unique": "APSP72622B9A",
+    "name": "Special Meeting/Budget Publishing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20170807",
+    "unid": "D905C9394891ECA08725816E00622B9A"
+  },
+  {
+    "unique": "AMVM3Q594BE5",
+    "name": "2017 Board of Education Retreat",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20170728",
+    "unid": "8F64ADC376234EED8725813100594BE5"
+  },
+  {
+    "unique": "AMVM3E594438",
+    "name": "2017 USD 265 Retreat",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20170727",
+    "unid": "70DE29B093E67B358725813100594438"
+  },
+  {
+    "unique": "AMVMB85A649C",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20170727",
+    "unid": "C4F8D3C0597577A487258131005A649C"
+  },
+  {
+    "unique": "AMVM8259E22C",
+    "name": "BOE Special Board Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20170718",
+    "unid": "CCE56866AC5806BD872581310059E22C"
+  },
+  {
+    "unique": "ABRNMZ607B0C",
+    "name": "Organizational Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20170705",
+    "unid": "077A861EA62D0A3987257FED00607B0C"
+  },
+  {
+    "unique": "ABRNKD604AE4",
+    "name": "Budget Closeout Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20170628",
+    "unid": "C9A1F98AD186948D87257FED00604AE4"
+  },
+  {
+    "unique": "AMVKGY51E11A",
+    "name": "Special Meeting",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20170606",
+    "unid": "33A9CF418DF58F62872581310051E11A"
+  },
+  {
+    "unique": "ABRNDJ5F700A",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20170605",
+    "unid": "B4F3E1A46F65E9E387257FED005F700A"
+  },
+  {
+    "unique": "AMVKDZ5171A7",
+    "name": "Special Meeting",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20170531",
+    "unid": "B19FF4360955FF0B87258131005171A7"
+  },
+  {
+    "unique": "AM6RAR6CBAC7",
+    "name": "BOE Special Meeting",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20170509",
+    "unid": "A893C16C5E1D8F468725811A006CBAC7"
+  },
+  {
+    "unique": "ABRN7E5E89EC",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20170508",
+    "unid": "47F137103FFE290D87257FED005E89EC"
+  },
+  {
+    "unique": "ALSK8F4DF22A",
+    "name": "Special Meeting",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20170501",
+    "unid": "B69D836134E7221E8725810E004DF22A"
+  },
+  {
+    "unique": "ABRMXK5D63F8",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20170410",
+    "unid": "6A2181962CFACC7587257FED005D63F8"
+  },
+  {
+    "unique": "ABRM7359C0AC",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20170313",
+    "unid": "3037D50807721B6B87257FED0059C0AC"
+  },
+  {
+    "unique": "ABRM5R599BAA",
+    "name": "State of the District Report",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20170215",
+    "unid": "A747E8C7139DD9DB87257FED00599BAA"
+  },
+  {
+    "unique": "ABRLZS5906F6",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20170213",
+    "unid": "8C34D13DDB2A843587257FED005906F6"
+  },
+  {
+    "unique": "AHRR3B6BAB87",
+    "name": "Special Meeting",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20170120",
+    "unid": "D76922AF0699EC2D872580AD006BAB87"
+  },
+  {
+    "unique": "ABRLRT57DC10",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20170109",
+    "unid": "9BFD7D94AB0AC9BE87257FED0057DC10"
+  },
+  {
+    "unique": "ABRLGQ567CC2",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20161219",
+    "unid": "0D6B2B005631600287257FED00567CC2"
+  },
+  {
+    "unique": "AGMKBP511AFB",
+    "name": "Board of Education Workshop",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20161219",
+    "unid": "5C9FFA31FF2CCD728725808900511AFB"
+  },
+  {
+    "unique": "AG6M455957F0",
+    "name": "Special Meeting",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20161130",
+    "unid": "CEB74559EAA94E4A8725807A005957F0"
+  },
+  {
+    "unique": "AFJLPF556134",
+    "name": "Board of Education Workshop",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20161114",
+    "unid": "C234269FB6E8A1878725806600556134"
+  },
+  {
+    "unique": "ABRLDS5617E4",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20161114",
+    "unid": "F39DF66AD3F238CE87257FED005617E4"
+  },
+  {
+    "unique": "ABRL9U558545",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20161010",
+    "unid": "65BAE4FB6C3470AF87257FED00558545"
+  },
+  {
+    "unique": "ABRL4H54BC94",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20160912",
+    "unid": "76981885E4F717A487257FED0054BC94"
+  },
+  {
+    "unique": "ABRKXW54050F",
+    "name": "Regular Meeting/Budget Hearing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20160822",
+    "unid": "D25BC947420C2BA487257FED0054050F"
+  },
+  {
+    "unique": "ABRKGF51CCE1",
+    "name": "Budget Publishing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20160808",
+    "unid": "B17DCC523EA18F1487257FED0051CCE1"
+  },
+  {
+    "unique": "ABRKX353D719",
+    "name": "2016 Board of Education Retreat",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20160729",
+    "unid": "A72DB3592C79002487257FED0053D719"
+  },
+  {
+    "unique": "ABRKVF53B4A6",
+    "name": "2016 USD 265 Retreat",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20160728",
+    "unid": "35F94083800B2BA987257FED0053B4A6"
+  },
+  {
+    "unique": "ABRKJ6520C5B",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20160725",
+    "unid": "46989C151D6931D787257FED00520C5B"
+  },
+  {
+    "unique": "AAWT99726305",
+    "name": "Organizational Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20160701",
+    "unid": "C55918D0199F60F087257FD200726305"
+  },
+  {
+    "unique": "A39T2B597395",
+    "name": "Budget Closeout Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20160627",
+    "unid": "F64A6C247156CF5387257EDD00597395"
+  },
+  {
+    "unique": "A39SXJ595211",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20160613",
+    "unid": "3F31B18FEF6F30BF87257EDD00595211"
+  },
+  {
+    "unique": "A39SUP593AEC",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20160509",
+    "unid": "605CF01D86035E1A87257EDD00593AEC"
+  },
+  {
+    "unique": "A39SSL591A28",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20160411",
+    "unid": "D88143893FC48C7587257EDD00591A28"
+  },
+  {
+    "unique": "A39SRD59064F",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20160307",
+    "unid": "1C0D4B72ABA3172087257EDD0059064F"
+  },
+  {
+    "unique": "A39SQ358EF73",
+    "name": "State of the District Report",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20160217",
+    "unid": "FDA9B86C89903DED87257EDD0058EF73"
+  },
+  {
+    "unique": "A39SGJ585EAE",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20160208",
+    "unid": "A583F445D35F1E9F87257EDD00585EAE"
+  },
+  {
+    "unique": "A6RNFC5F5787",
+    "name": "Special Meeting",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20160208",
+    "unid": "FCF14543EB287E1887257F4D005F5787"
+  },
+  {
+    "unique": "A39SEQ584BFF",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20160111",
+    "unid": "A70F5FD0DE71789087257EDD00584BFF"
+  },
+  {
+    "unique": "A39S8G57C273",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20151214",
+    "unid": "3D63EB483CEFDBC787257EDD0057C273"
+  },
+  {
+    "unique": "A39Q6E544222",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20151109",
+    "unid": "DBBB4E7E80F208EF87257EDD00544222"
+  },
+  {
+    "unique": "A26MRC5B0B9D",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20151012",
+    "unid": "2843AC2DD28DC31E87257EBA005B0B9D"
+  },
+  {
+    "unique": "9Z2JGC4D1944",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20150914",
+    "unid": "718A4E0920DE3DAE87257E96004D1944"
+  },
+  {
+    "unique": "9YGSY774D048",
+    "name": "Regular Meeting/Budget Hearing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20150817",
+    "unid": "8D690DC20B88C0B287257E840074D048"
+  },
+  {
+    "unique": "9YUM42595507",
+    "name": "2015 Board of Education Retreat",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20150731",
+    "unid": "4893548D0086AB3B87257E9000595507"
+  },
+  {
+    "unique": "9YGSW4748AFC",
+    "name": "2015 USD 265 Retreat",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20150730",
+    "unid": "B8146E2D33D64F8F87257E8400748AFC"
+  },
+  {
+    "unique": "9XLU5M71CF0B",
+    "name": "Regular Meeting/Budget Publishing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20150727",
+    "unid": "E23A186BE978701F87257E680071CF0B"
+  },
+  {
+    "unique": "9Y7J344B289E",
+    "name": "Special BOE Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20150708",
+    "unid": "37FFBC6195ED313B87257E7B004B289E"
+  },
+  {
+    "unique": "9XLHTZ4A1EA6",
+    "name": "Organizational Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20150701",
+    "unid": "77982500D9CED56687257E68004A1EA6"
+  },
+  {
+    "unique": "9LDNVJ5EA2A3",
+    "name": "Budget Closeout Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20150625",
+    "unid": "1E9A0B7E9B37BF5D87257D01005EA2A3"
+  },
+  {
+    "unique": "9LDN3G581808",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20150608",
+    "unid": "A52C5989ACFC2D6787257D0100581808"
+  },
+  {
+    "unique": "9LDLGJ561573",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20150511",
+    "unid": "10296FE3D4AC7ED387257D0100561573"
+  },
+  {
+    "unique": "9LDJVV4F0DB3",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20150413",
+    "unid": "1FF7AB55BFD0B4F687257D01004F0DB3"
+  },
+  {
+    "unique": "9LDHVM4A4C4C",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20150309",
+    "unid": "67BCBACC55589C9587257D01004A4C4C"
+  },
+  {
+    "unique": "9LDLDH55E404",
+    "name": "State of the District Report",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20150218",
+    "unid": "9A9C797AA17D504787257D010055E404"
+  },
+  {
+    "unique": "9LCUA47B0F4D",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20150209",
+    "unid": "CCAFB68E1852B02487257D00007B0F4D"
+  },
+  {
+    "unique": "9LCS4P70E352",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20150120",
+    "unid": "702AFC410B9E64F987257D000070E352"
+  },
+  {
+    "unique": "9LCP6R632110",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20141208",
+    "unid": "05EB99E99B8A8AB387257D0000632110"
+  },
+  {
+    "unique": "9LCNVC61C035",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20141110",
+    "unid": "16DD03384A5D315887257D000061C035"
+  },
+  {
+    "unique": "94EL8X555C5B",
+    "name": "Special Meeting",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20141027",
+    "unid": "7518E87BCFA2D2ED87257B0200557401"
+  },
+  {
+    "unique": "9LCNDR5F03B2",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20141013",
+    "unid": "DC8E88DF9CFE495387257D00005F03B2"
+  },
+  {
+    "unique": "9P7MMV5B62B0",
+    "name": "Special BOE Meeting",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20140930",
+    "unid": "1584509A945724E787257D5B005B62B0"
+  },
+  {
+    "unique": "9LCLQQ56617E",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20140915",
+    "unid": "407D63BD18AE38F087257D000056617E"
+  },
+  {
+    "unique": "9L6UV47DD7DC",
+    "name": "Regular Meeting/Budget Hearing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20140811",
+    "unid": "98E605C518D2D9C687257CFA007DD7DC"
+  },
+  {
+    "unique": "9L6UWL7E06AD",
+    "name": "2014 Board of Education Retreat",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20140811",
+    "unid": "CB23A0AED73FFD6B87257CFA007E06AD"
+  },
+  {
+    "unique": "9L6URA7D4883",
+    "name": "2014 USD 265 Retreat",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20140729",
+    "unid": "2AC7591B49D51FBD87257CFA007D4883"
+  },
+  {
+    "unique": "9L6TQY788C27",
+    "name": "Regular Meeting/Budget Publishing",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20140721",
+    "unid": "BF56A66DF1E223A087257CFA00788C27"
+  },
+  {
+    "unique": "9KXPXY5F47DC",
+    "name": "Organizational Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20140701",
+    "unid": "69253CD76A13F8EF87257CF3005F47DC"
+  },
+  {
+    "unique": "9H3JHY4A1A9D",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20140626",
+    "unid": "7C03FD88CFE1D72D87257C97004A1A9D"
+  },
+  {
+    "unique": "9K3JJV4C56B6",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20140609",
+    "unid": "490548A9FF356DFA87257CD7004C56B6"
+  },
+  {
+    "unique": "9K3T4X759DCE",
+    "name": "Special BOE Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20140515",
+    "unid": "61E8309B3595B5EE87257CD700759DCE"
+  },
+  {
+    "unique": "9H3JBG49F1AA",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20140512",
+    "unid": "9B96912F9B48832187257C970049F1AA"
+  },
+  {
+    "unique": "9H3J9H49D8DB",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20140414",
+    "unid": "C5E248890B2D02A487257C970049D8DB"
+  },
+  {
+    "unique": "9GAQDL68CDA8",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20140310",
+    "unid": "26505F24BBEDE66A87257C7E0068CDA8"
+  },
+  {
+    "unique": "9GAQFV68E313",
+    "name": "Mini-Retreat",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20140226",
+    "unid": "287E96C108C7E94C87257C7E0068E313"
+  },
+  {
+    "unique": "9FLQJT62D9D9",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20140210",
+    "unid": "58B4AA48D3B3E27D87257C680062D9D9"
+  },
+  {
+    "unique": "9E9MVU581D09",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20140121",
+    "unid": "18E00AFE183B3F6287257C3D00581D09"
+  },
+  {
+    "unique": "9DEUVC743B71",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20131209",
+    "unid": "EEF2DEF2FC8C05A287257C2200743B71"
+  },
+  {
+    "unique": "9CLJ854BB805",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20131111",
+    "unid": "068667A724A4135987257C08004BB805"
+  },
+  {
+    "unique": "9BFTLD7024D2",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20131014",
+    "unid": "A25BB0AF1CF7E9DB87257BE3007024D2"
+  },
+  {
+    "unique": "9C5JXN4F5773",
+    "name": "Special BOE Meeting",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20131014",
+    "unid": "DAB6C4881AD2BA4D87257BF9004F5773"
+  },
+  {
+    "unique": "9ALJAH4AC7E9",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20130909",
+    "unid": "C67CBC3F834BE2E987257BC8004AC7E9"
+  },
+  {
+    "unique": "99YKZ45427B5",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20130812",
+    "unid": "33092B99D70D86F887257BB4005427B5"
+  },
+  {
+    "unique": "99RRP66D4B68",
+    "name": "2013 USD 265 Education Retreat",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20130725",
+    "unid": "153238DFFEF34DC787257BAD006D4B68"
+  },
+  {
+    "unique": "98TJTY4E2927",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20130722",
+    "unid": "912219FE9CF5A8DC87257B8F004E2927"
+  },
+  {
+    "unique": "98TL625494EA",
+    "name": "Organizational Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20130701",
+    "unid": "A3CE23913BE3DC8487257B8F005494EA"
+  },
+  {
+    "unique": "98SHRJ49C234",
+    "name": "Special BOE Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20130627",
+    "unid": "3E483372E3094B2787257B8E0049C234"
+  },
+  {
+    "unique": "97GUKA75CC19",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20130617",
+    "unid": "2F3856923989C91287257B640075CC19"
+  },
+  {
+    "unique": "96SRK26E47B1",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20130513",
+    "unid": "FC4FCF28DE2EA0DC87257B4E006E47B1"
+  },
+  {
+    "unique": "95BUA37917E2",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20130415",
+    "unid": "704BD5373FE3A1E987257B1F007917E2"
+  },
+  {
+    "unique": "95BU9A78E304",
+    "name": "Special BOE Meeting",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20130415",
+    "unid": "B5E590C872EA4EB387257B1F0078E304"
+  },
+  {
+    "unique": "94VQQ96A515F",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20130311",
+    "unid": "92337FA6288914B087257B11006A515F"
+  },
+  {
+    "unique": "94MMEX5A9016",
+    "name": "Mini-Retreat",
+    "current": "",
+    "preliveoak": "",
+    "numberdate": "20130218",
+    "unid": "BA8D63D0A48372A487257B09005A9016"
+  },
+  {
+    "unique": "92USAG71A8A5",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20130211",
+    "unid": "1416F1D3B00D7DF787257AD00071A8A5"
+  },
+  {
+    "unique": "94ELC255D37C",
+    "name": "Special BOE Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20130130",
+    "unid": "22E29CB590F0F7A087257B020055D37C"
+  },
+  {
+    "unique": "92US2Z709FE1",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20130114",
+    "unid": "5B14120AD6FA3D7F87257AD000709FE1"
+  },
+  {
+    "unique": "7ZF3V9088C73",
+    "name": "Regular Meeting",
+    "current": "0",
+    "preliveoak": "",
+    "numberdate": "20121008",
+    "unid": "C795B58A53B7CA3D862576A300088C73"
+  },
+  {}
+]

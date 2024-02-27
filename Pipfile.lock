@@ -500,7 +500,7 @@
                 "sha256:961d03dc3453ebbc59dbdea9e4e11c5651520a876d0f4db161e8674aae935da9"
             ],
             "index": "pypi",
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
             "version": "==2.8.2"
         },
         "pytz": {
@@ -670,15 +670,15 @@
                 "sha256:fd2b8500d64b909289e3541c201b4d672c0e7b458fc20e77bb37f0d71d93a75a"
             ],
             "index": "pypi",
-            "markers": "python_version < '4.0' and python_full_version >= '3.6.1'",
+            "markers": "python_full_version >= '3.6.1' and python_version < '4.0'",
             "version": "==0.3.3"
         },
         "sentry-sdk": {
             "hashes": [
-                "sha256:d188b407c9bacbe2a50a824e1f8fb99ee1aeb309133310488c570cb6d7056643",
-                "sha256:d2dca2392cc5c9a2cc9bb874dd7978ebb759682fe4fe889ee7e970ee8dd1c61e"
+                "sha256:becda09660df63e55f307570e9817c664392655a7328bbc414b507e9cb874c67",
+                "sha256:f143f3fb4bb57c90abef6e2ad06b5f6f02b2ca13e4060ec5c0549c7a9ccce3fa"
             ],
-            "version": "==1.40.5"
+            "version": "==1.40.6"
         },
         "service-identity": {
             "hashes": [
@@ -701,7 +701,7 @@
                 "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
                 "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
             "version": "==1.16.0"
         },
         "tldextract": {
@@ -947,7 +947,7 @@
                 "sha256:961d03dc3453ebbc59dbdea9e4e11c5651520a876d0f4db161e8674aae935da9"
             ],
             "index": "pypi",
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
             "version": "==2.8.2"
         },
         "six": {
@@ -955,7 +955,7 @@
                 "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
                 "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
             "version": "==1.16.0"
         },
         "tomli": {
