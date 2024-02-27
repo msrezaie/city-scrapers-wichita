@@ -22,11 +22,6 @@ parsed_items = [item for item in spider.parse(test_response)]
 freezer.stop()
 
 
-"""
-Uncomment below
-"""
-
-
 def test_title():
     assert parsed_items[0]["title"] == "BOE Meeting"
 
@@ -44,7 +39,7 @@ def test_end():
 
 
 def test_time_notes():
-    assert parsed_items[0]["time_notes"] is None
+    assert parsed_items[0]["time_notes"] == ""
 
 
 def test_id():
@@ -63,10 +58,7 @@ def test_location():
 
 
 def test_source():
-    assert (
-        parsed_items[0]["source"]
-        == "https://awsapieast1-prod21.schoolwires.com/REST/api/v4/CalendarEvents/GetEvents/13328?StartDate=2024-01-22&EndDate=2024-08-19&ModuleInstanceFilter=&CategoryFilter=&IsDBStreamAndShowAll=true"  # noqa
-    )
+    assert parsed_items[0]["source"] == "https://www.usd259.org/Page/2471#calendar13328"
 
 
 def test_links():

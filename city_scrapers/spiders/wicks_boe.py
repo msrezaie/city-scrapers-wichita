@@ -13,6 +13,7 @@ class WicksBoeSpider(CityScrapersSpider):
     name = "wicks_boe"
     agency = "Wichita Board of Education"
     timezone = "America/Chicago"
+    calendar_page_link = "https://www.usd259.org/Page/2471#calendar13328"
     meeting_materials_link = [
         {
             "title": "Agenda Page",
@@ -64,10 +65,10 @@ class WicksBoeSpider(CityScrapersSpider):
                     start=parser().parse(item["Start"]),
                     end=parser().parse(item["End"]),
                     all_day=item["AllDay"],
-                    time_notes=None,
+                    time_notes="",
                     location=self.location,
                     links=self.meeting_materials_link,
-                    source=response.url,
+                    source=self.calendar_page_link,
                 )
                 meeting["status"] = self._get_status(meeting)
                 meeting["id"] = self._get_id(meeting)
