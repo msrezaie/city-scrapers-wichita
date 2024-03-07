@@ -6,7 +6,7 @@ from city_scrapers_core.constants import COMMITTEE, TENTATIVE
 from city_scrapers_core.utils import file_response
 from freezegun import freeze_time
 
-from city_scrapers.spiders.wicks_city_apc import WicksCityAPCSpider
+from city_scrapers.spiders.wicks_city import WicksCityAPCSpider
 
 test_response = file_response(
     join(dirname(__file__), "files", "wicks_city_apc.html"),
