@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wichita Independent Neighborhoods, Inc. - ECPv6.3.3.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wichita Independent Neighborhoods, Inc.
+X-ORIGINAL-URL:https://winwichita.org
+X-WR-CALDESC:Events for Wichita Independent Neighborhoods, Inc.
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:20240310T080000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:20241103T070000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:20250309T080000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:20251102T070000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20240308T180000
+DTEND;TZID=America/Chicago:20240308T193000
+DTSTAMP:20240308T121004
+CREATED:20240112T033729Z
+LAST-MODIFIED:20240112T033729Z
+UID:728-1709920800-1709926200@winwichita.org
+SUMMARY:Executive Board Meeting
+DESCRIPTION:This is the closed monthly meeting of WIN’s Executive Board. We meet the second Thursday of every month beginning in January.
+URL:https://winwichita.org/event/executive-board-meeting-23/
+LOCATION:General Membership Meeting Locale\, 2418 E 9th St N\, Wichita\, KS\, 67214\, United States
+CATEGORIES:Board
+ORGANIZER;CN="Wichita Independent Neighborhoods%2C Inc":MAILTO:membership@winwichita.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20240411T180000
+DTEND;TZID=America/Chicago:20240411T193000
+DTSTAMP:20240308T121004
+CREATED:20240112T033730Z
+LAST-MODIFIED:20240112T033730Z
+UID:729-1712858400-1712863800@winwichita.org
+SUMMARY:Executive Board Meeting
+DESCRIPTION:This is the closed monthly meeting of WIN’s Executive Board. We meet the second Thursday of every month beginning in January.
+URL:https://winwichita.org/event/executive-board-meeting-24/
+LOCATION:General Membership Meeting Locale\, 2418 E 9th St N\, Wichita\, KS\, 67214\, United States
+CATEGORIES:Board
+ORGANIZER;CN="Wichita Independent Neighborhoods%2C Inc":MAILTO:membership@winwichita.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20240427T100000
+DTEND;TZID=America/Chicago:20240427T120000
+DTSTAMP:20240308T121004
+CREATED:20240209T003405Z
+LAST-MODIFIED:20240209T003441Z
+UID:750-1714212000-1714219200@winwichita.org
+SUMMARY:Quarterly Community Gathering
+DESCRIPTION:WIN Members and prospective members meet for refreshments and discussion of neighborhood concerns and goals.
+URL:https://winwichita.org/event/community-gathering/
+LOCATION:Urban League of Wichita\, 2418 E 9th Street\, Wichita\, KS\, 67214\, United States
+ORGANIZER;CN="Wichita Independent Neighborhoods%2C Inc":MAILTO:membership@winwichita.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20240509T180000
+DTEND;TZID=America/Chicago:20240509T193000
+DTSTAMP:20240308T121004
+CREATED:20240112T033732Z
+LAST-MODIFIED:20240112T033732Z
+UID:730-1715277600-1715283000@winwichita.org
+SUMMARY:Executive Board Meeting
+DESCRIPTION:This is the closed monthly meeting of WIN’s Executive Board. We meet the second Thursday of every month beginning in January.
+URL:https://winwichita.org/event/executive-board-meeting-25/
+LOCATION:General Membership Meeting Locale\, 2418 E 9th St N\, Wichita\, KS\, 67214\, United States
+CATEGORIES:Board
+ORGANIZER;CN="Wichita Independent Neighborhoods%2C Inc":MAILTO:membership@winwichita.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20240613T180000
+DTEND;TZID=America/Chicago:20240613T193000
+DTSTAMP:20240308T121004
+CREATED:20240112T033735Z
+LAST-MODIFIED:20240112T033735Z
+UID:731-1718301600-1718307000@winwichita.org
+SUMMARY:Executive Board Meeting
+DESCRIPTION:This is the closed monthly meeting of WIN’s Executive Board. We meet the second Thursday of every month beginning in January.
+URL:https://winwichita.org/event/executive-board-meeting-26/
+LOCATION:General Membership Meeting Locale\, 2418 E 9th St N\, Wichita\, KS\, 67214\, United States
+CATEGORIES:Board
+ORGANIZER;CN="Wichita Independent Neighborhoods%2C Inc":MAILTO:membership@winwichita.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20240711T180000
+DTEND;TZID=America/Chicago:20240711T193000
+DTSTAMP:20240308T121004
+CREATED:20240112T033735Z
+LAST-MODIFIED:20240112T033735Z
+UID:732-1720720800-1720726200@winwichita.org
+SUMMARY:Executive Board Meeting
+DESCRIPTION:This is the closed monthly meeting of WIN’s Executive Board. We meet the second Thursday of every month beginning in January.
+URL:https://winwichita.org/event/executive-board-meeting-27/
+LOCATION:General Membership Meeting Locale\, 2418 E 9th St N\, Wichita\, KS\, 67214\, United States
+CATEGORIES:Board
+ORGANIZER;CN="Wichita Independent Neighborhoods%2C Inc":MAILTO:membership@winwichita.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20240727T100000
+DTEND;TZID=America/Chicago:20240727T120000
+DTSTAMP:20240308T121004
+CREATED:20240209T004022Z
+LAST-MODIFIED:20240209T004659Z
+UID:756-1722074400-1722081600@winwichita.org
+SUMMARY:Quarterly Meeting
+DESCRIPTION:WIN Members will mobilize to support a cleanup.
+URL:https://winwichita.org/event/quarterly-meeting/
+LOCATION:Urban League of Wichita\, 2418 E 9th Street\, Wichita\, KS\, 67214\, United States
+ORGANIZER;CN="Wichita Independent Neighborhoods%2C Inc":MAILTO:membership@winwichita.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20240808T180000
+DTEND;TZID=America/Chicago:20240808T193000
+DTSTAMP:20240308T121004
+CREATED:20240112T033735Z
+LAST-MODIFIED:20240112T033735Z
+UID:733-1723140000-1723145400@winwichita.org
+SUMMARY:Executive Board Meeting
+DESCRIPTION:This is the closed monthly meeting of WIN’s Executive Board. We meet the second Thursday of every month beginning in January.
+URL:https://winwichita.org/event/executive-board-meeting-28/
+LOCATION:General Membership Meeting Locale\, 2418 E 9th St N\, Wichita\, KS\, 67214\, United States
+CATEGORIES:Board
+ORGANIZER;CN="Wichita Independent Neighborhoods%2C Inc":MAILTO:membership@winwichita.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20240912T180000
+DTEND;TZID=America/Chicago:20240912T193000
+DTSTAMP:20240308T121004
+CREATED:20240112T033735Z
+LAST-MODIFIED:20240112T033735Z
+UID:734-1726164000-1726169400@winwichita.org
+SUMMARY:Executive Board Meeting
+DESCRIPTION:This is the closed monthly meeting of WIN’s Executive Board. We meet the second Thursday of every month beginning in January.
+URL:https://winwichita.org/event/executive-board-meeting-29/
+LOCATION:General Membership Meeting Locale\, 2418 E 9th St N\, Wichita\, KS\, 67214\, United States
+CATEGORIES:Board
+ORGANIZER;CN="Wichita Independent Neighborhoods%2C Inc":MAILTO:membership@winwichita.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20241005T100000
+DTEND;TZID=America/Chicago:20241005T120000
+DTSTAMP:20240308T121004
+CREATED:20240209T004448Z
+LAST-MODIFIED:20240209T004448Z
+UID:758-1728122400-1728129600@winwichita.org
+SUMMARY:Quarterly Meeting
+DESCRIPTION:WIN Members and prospective members meet for refreshments and discussion of neighborhood concerns and goals.
+URL:https://winwichita.org/event/quarterly-meeting-2/
+LOCATION:Urban League of Wichita\, 2418 E 9th Street\, Wichita\, KS\, 67214\, United States
+ORGANIZER;CN="Wichita Independent Neighborhoods%2C Inc":MAILTO:membership@winwichita.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20241010T180000
+DTEND;TZID=America/Chicago:20241010T193000
+DTSTAMP:20240308T121004
+CREATED:20240112T033735Z
+LAST-MODIFIED:20240112T033735Z
+UID:735-1728583200-1728588600@winwichita.org
+SUMMARY:Executive Board Meeting
+DESCRIPTION:This is the closed monthly meeting of WIN’s Executive Board. We meet the second Thursday of every month beginning in January.
+URL:https://winwichita.org/event/executive-board-meeting-30/
+LOCATION:General Membership Meeting Locale\, 2418 E 9th St N\, Wichita\, KS\, 67214\, United States
+CATEGORIES:Board
+ORGANIZER;CN="Wichita Independent Neighborhoods%2C Inc":MAILTO:membership@winwichita.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20241114T180000
+DTEND;TZID=America/Chicago:20241114T193000
+DTSTAMP:20240308T121004
+CREATED:20240112T033750Z
+LAST-MODIFIED:20240112T033750Z
+UID:736-1731607200-1731612600@winwichita.org
+SUMMARY:Executive Board Meeting
+DESCRIPTION:This is the closed monthly meeting of WIN’s Executive Board. We meet the second Thursday of every month beginning in January.
+URL:https://winwichita.org/event/executive-board-meeting-31/
+LOCATION:General Membership Meeting Locale\, 2418 E 9th St N\, Wichita\, KS\, 67214\, United States
+CATEGORIES:Board
+ORGANIZER;CN="Wichita Independent Neighborhoods%2C Inc":MAILTO:membership@winwichita.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20241212T180000
+DTEND;TZID=America/Chicago:20241212T193000
+DTSTAMP:20240308T121004
+CREATED:20240112T033750Z
+LAST-MODIFIED:20240112T161005Z
+UID:737-1734026400-1734031800@winwichita.org
+SUMMARY:Executive Board Meeting
+DESCRIPTION:This is the closed monthly meeting of WIN’s Executive Board. We meet the second Thursday of every month beginning in January.
+URL:https://winwichita.org/event/executive-board-meeting-32/
+LOCATION:General Membership Meeting Locale\, 2418 E 9th St N\, Wichita\, KS\, 67214\, United States
+CATEGORIES:Board
+ORGANIZER;CN="Wichita Independent Neighborhoods%2C Inc":MAILTO:membership@winwichita.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20250127T180000
+DTEND;TZID=America/Chicago:20250127T210000
+DTSTAMP:20240308T121004
+CREATED:20240209T004917Z
+LAST-MODIFIED:20240209T005055Z
+UID:762-1738000800-1738011600@winwichita.org
+SUMMARY:WIN Annual Meeting
+DESCRIPTION:Details Pending.
+URL:https://winwichita.org/event/win-annual-meeting-2/
+ORGANIZER;CN="Wichita Independent Neighborhoods%2C Inc":MAILTO:membership@winwichita.org
+END:VEVENT
+END:VCALENDAR
