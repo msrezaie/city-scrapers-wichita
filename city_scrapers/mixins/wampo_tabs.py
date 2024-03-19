@@ -1,5 +1,6 @@
 import re
 from datetime import datetime
+from unicodedata import normalize
 
 from city_scrapers_core.constants import COMMITTEE
 from city_scrapers_core.items import Meeting
@@ -99,15 +100,29 @@ class WampoMixinTabs(CityScrapersSpider, metaclass=WampoMixinTabsMeta):
         return None
 
     def _parse_links(self, item):
-        """
-        Parse all links in the row.
-        """
-        links = []
+        """Parse links to meeting agendas and minutes. HTML is
+        very messy. Display text is often split across multiple
+        span tags. In some cases, multiple a tags make up the same
+        link (Eg. "Re", "cording")."""
+        link_text = []
+        link_hrefs = []
         for link in item.css("a"):
-            links.append(
-                {
-                    "href": link.attrib["href"],
-                    "title": link.css("::text").extract_first(),
-                }
+            url = link.attrib["href"]
+            # get text from all child spans
+            title = "".join(link.css("::text").extract()).strip()
+            # Strip white space and remove special characters
+            clean_title = (
+                normalize("NFKD", title).encode("ascii", "ignore").decode("utf-8")
             )
+            if url in link_hrefs:
+                # if link already exists, append to corresponding text
+                index = link_hrefs.index(url)
+                link_text[index] += clean_title
+            else:
+                link_hrefs.append(url)
+                link_text.append(clean_title)
+        # zip together
+        links = []
+        for i, title in enumerate(link_text):
+            links.append({"title": title, "href": link_hrefs[i]})
         return links
