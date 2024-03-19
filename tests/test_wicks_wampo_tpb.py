@@ -14,7 +14,7 @@ test_response = file_response(
 )
 spider = WicksWampoTPBSpider()
 
-freezer = freeze_time(datetime(2024, 3, 14, 14, 1))
+freezer = freeze_time(datetime(2024, 3, 19, 11, 39))
 freezer.start()
 
 parsed_items = [item for item in spider.parse(test_response)]
@@ -67,15 +67,14 @@ def test_source():
 def test_links():
     assert parsed_item["links"] == [
         {
+            "title": "Agenda Packet",
             "href": "https://www.wampo.org/_files/ugd/bbf89d_bc9c575ffcd9480ca7bd7b8c7611857b.pdf",  # noqa
-            "title": "Agenda",
         },
         {
+            "title": "Minutes",
             "href": "https://www.wampo.org/_files/ugd/bbf89d_8cf9fc33872e44d2a7ade0d2db6e5fae.pdf",  # noqa
-            "title": "Min",
         },
-        {"href": "https://youtu.be/LsMI1EClvnI", "title": "Re"},
-        {"href": "https://youtu.be/LsMI1EClvnI", "title": "cording"},
+        {"title": "Recording", "href": "https://youtu.be/LsMI1EClvnI"},
     ]
 
 
