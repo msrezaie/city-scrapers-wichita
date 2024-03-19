@@ -2,6 +2,7 @@ from datetime import datetime, time
 from unittest.mock import MagicMock
 
 import pytest
+import scrapy
 
 from city_scrapers.mixins.wampo_tabs import WampoMixinTabs
 
@@ -43,13 +44,9 @@ class TestWampoMixinTabs:
         assert parsed_start is None, "Should return None for invalid date formats."
 
     def test_parse_links(self, mixin):
-        # Mocking item to test _parse_links
-        item = MagicMock()
-        link_mock = MagicMock()
-        link_mock.attrib = {"href": "http://example.com/meeting-details"}
-        link_mock.css().extract_first.return_value = "Meeting details"
-        item.css.return_value = [link_mock]
-
+        item = scrapy.Selector(
+            text="<p><a href='http://example.com/meeting-details'><span>Meeting</span> <span>details</span></a></p>"  # noqa
+        )
         links = mixin._parse_links(item)
         assert len(links) == 1, "Failed to parse the correct number of links."
         assert (
