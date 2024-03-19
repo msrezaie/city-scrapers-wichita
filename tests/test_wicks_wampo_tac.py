@@ -14,7 +14,7 @@ test_response = file_response(
 )
 spider = WicksWampoTacSpider()
 
-freezer = freeze_time(datetime(2024, 3, 14, 14, 23))
+freezer = freeze_time(datetime(2024, 3, 19, 11, 52))
 freezer.start()
 
 parsed_items = [item for item in spider.parse(test_response)]
@@ -31,7 +31,7 @@ def test_description():
 
 
 def test_start():
-    assert parsed_item["start"] == datetime(2024, 1, 14, 10, 0)
+    assert parsed_item["start"] == datetime(2024, 1, 19, 10, 0)
 
 
 def test_end():
@@ -45,7 +45,7 @@ def test_time_notes():
 def test_id():
     assert (
         parsed_item["id"]
-        == "wicks_wampo_tac/202401141000/x/wampo_transportation_policy_body_meeting"
+        == "wicks_wampo_tac/202401191000/x/wampo_transportation_policy_body_meeting"
     )
 
 
@@ -67,21 +67,17 @@ def test_source():
 def test_links():
     assert parsed_item["links"] == [
         {
+            "title": "Agenda Packet",
             "href": "https://www.wampo.org/_files/ugd/bbf89d_02a78f0fb9c24886998245c53019d994.pdf",  # noqa
-            "title": "Agenda Pack",
         },
         {
-            "href": "https://www.wampo.org/_files/ugd/bbf89d_1471b553e5e54ffdb3fa8cdd0821f829.pdf",  # noqa
             "title": "Minutes",
+            "href": "https://www.wampo.org/_files/ugd/bbf89d_1471b553e5e54ffdb3fa8cdd0821f829.pdf",  # noqa
         },
-        {"href": "https://www.youtube.com/watch?v=ATbfnexxAhg", "title": "Record"},
+        {"title": "Recording", "href": "https://www.youtube.com/watch?v=ATbfnexxAhg"},
         {
+            "title": "Safer Speeds Presentation Slides",
             "href": "https://www.wampo.org/_files/ugd/bbf89d_96c56756159b4989953c130cbe6ab49c.pdf",  # noqa
-            "title": "Safer Speeds Presentatio",
-        },
-        {
-            "href": "https://www.wampo.org/_files/ugd/bbf89d_96c56756159b4989953c130cbe6ab49c.pdf",  # noqa
-            "title": "n Slides",
         },
     ]
 
