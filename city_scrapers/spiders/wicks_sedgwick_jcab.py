@@ -1,6 +1,6 @@
 import re
-from urllib.parse import urljoin
 from datetime import datetime, time
+from urllib.parse import urljoin
 
 from city_scrapers_core.constants import BOARD, CANCELLED, PASSED, TENTATIVE
 from city_scrapers_core.items import Meeting
@@ -62,14 +62,12 @@ class WicksSedgwickJcabSpider(CityScrapersSpider):
             if "agenda" in link_text.lower():
                 agenda_link = link.css("::attr(href)").get()
                 parsed_links.append(
-                    {"href": urljoin(
-                        response.url, agenda_link), "title": "Agenda"}
+                    {"href": urljoin(response.url, agenda_link), "title": "Agenda"}
                 )
             elif "minutes" in link_text.lower():
                 minutes_link = link.css("::attr(href)").get()
                 parsed_links.append(
-                    {"href": urljoin(
-                        response.url, minutes_link), "title": "Minutes"}
+                    {"href": urljoin(response.url, minutes_link), "title": "Minutes"}
                 )
         parsed_links.append(self.zoom_link)
 
