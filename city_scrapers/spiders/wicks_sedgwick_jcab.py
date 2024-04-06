@@ -75,13 +75,17 @@ class WicksSedgwickJcabSpider(CityScrapersSpider):
 
     def _get_status(self, item):
         """
-        This method is overridden since the meetings' title is always the same,
-        and the description field is non existent.
+        This method is overridden since the meetings'
+        title is always the same, and the description
+        field is empty. The meeting details coming from
+        the 'item' are extracted from an <li> tag as part
+        of a single line which combines meeting date,
+        agenda & minutes links, and a status (only if a meeting is 'CANCELLED').
         """
-        cancelled = self._parse_meeting_details(item)
+        cancelled = item.get().lower()
         start = self._parse_date(item, self.start)
 
-        if cancelled:
+        if "cancel" in cancelled:
             return CANCELLED
         if start < datetime.now():
             return PASSED
@@ -93,15 +97,3 @@ class WicksSedgwickJcabSpider(CityScrapersSpider):
         date = datetime.strptime(date_obj, "%B %d, %Y")
 
         return datetime.combine(date, hour)
-
-    def _parse_meeting_details(self, item):
-        """
-        The meeting details are extracted from an <li> tag as
-        part of a single line which combines meeting date,
-        agenda & minutes links, and a status (only if a meeting is 'CANCELLED').
-        This method parses that line and returns the status of the meeting.
-        """
-        details_split = item.css("li").get().split("-")
-        cancelled_status = True if "CANCELLED" in details_split[-1] else False
-
-        return cancelled_status
